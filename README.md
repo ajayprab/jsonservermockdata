@@ -1,2 +1,0 @@
-# jsonservermockdata
-Created with CodeSandbox
